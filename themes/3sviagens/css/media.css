@@ -1,0 +1,262 @@
+/*--------------------MEDIA 1550PX--------------------*/
+@media(max-width: 1550px){
+    body{width: 100%; max-width: 1600px;}
+}
+/*--------------------MEDIA 1500PX--------------------*/
+@media(max-width: 1500px){
+    .site{width: 100%;max-width: 1600px !important;}
+}
+/*--------------------MEDIA 1440PX--------------------*/
+@media(max-width: 1440px){
+    .row-pacotes .box-thumb-pac .thumb-pacote .box-hover-pacotes{height: 192px; }
+}
+/*--------------------MEDIA 1415PX--------------------*/
+@media(max-width: 1415px){
+    .info-blog{padding: 2%;}
+}
+/*--------------------MEDIA 1397PX--------------------*/
+@media(max-width:1397px){
+    .artigos-recentes .box-art-thumb img{width: 100%;height: 110px;}
+    .artigos-recentes .box-art-thumb .text-recente{width: 100%;}
+}
+/*--------------------MEDIA 1305PX--------------------*/
+@media(max-width: 1305px){
+    .info-blog{padding: 0 0 20% 2%;}
+    .row-pacotes .box-thumb-pac{margin: 0 10px 10px 10px;}
+}
+/*--------------------MEDIA 1280PX--------------------*/
+@media(max-width: 1280px){
+    .row-pacotes a h1{font-size: 1.6em;}
+}
+
+/*--------------------MEDIA 1279PX--------------------*/
+@media(max-width:1279px){
+    /*PROMOÇÕES - FROTA -PACOTES*/
+    .row-thumb-text .thumb{width: 40%; margin: 0 30%; }
+    .row-thumb-text .thumb img{padding: 15px; }
+    .row-thumb-text .text{width: 100%; text-align: center; }
+    .row-thumb-text .text h1{margin: 15px 0;}
+    .row-thumb-text .text p{margin-bottom: 8px;}
+    .row-thumb-text .text .text-pacotes{padding-bottom: 17px !important;}
+}
+/*--------------------MEDIA 1245PX--------------------*/
+@media(max-width: 1245px){
+    .info-blog{padding: 0 0 20% 2%;}
+    .info-blog h1{font-size: 1.2em;}
+}
+/*--------------------MEDIA 1094PX--------------------*/
+@media(max-width:1125px){ 
+.row-pacotes .box-thumb-pac .thumb-pacote:hover .box-hover-pacotes {
+    position: absolute;
+    top: 43px;
+    display: none;}
+}
+@media(max-width:1094px){ 
+    /*LOGO*/
+    .main_logo{ width: 100%; ;}
+    .main_logo a{left: 50%; margin-left: -140px; background: url('../images/logo-nova.png') center center no-repeat; background-size: auto 70%;}
+
+    /*MENU PRINCIPAL*/
+    .main_menu{width: 100%; text-align: center;}
+    .main_menu a{float: left; padding: 12px; color: #333; font-size: 1.2em;}
+}
+/*--------------------MEDIA 1077PX--------------------*/
+@media(max-width:1077px){
+    .box-artigo h6{font-size: 0.9em;}
+    .artigos-recentes h2{font-size: 1.2em;}
+}
+/*--------------------MEDIA 1024PX--------------------*/
+@media(max-width: 1024px){
+    .sidebar-search{width: 25%}    
+    .sec-thumb-pacotes{margin-left: 10px; width: 73%;}
+    .row-pacotes a h1{font-size: 1.3em;}
+    .row-pacotes{width: 100%; margin: 0 2.5%;}         
+}
+/*--------------------MEDIA 1023PX--------------------*/
+@media(max-width:1023px){    
+    /*AS MELHORES OFERTAS*/
+    .main-ofertas{float: left; }
+    .main-ofertas h1{margin: 15px 0; float: left; width: 100%;}
+    .row-ofertas{margin: 0 1%; width: calc(50% - 2%);  float: left; background-color: #fff; margin-bottom: 1.5rem !important;}
+}
+/*--------------------MEDIA 1008PX--------------------*/
+@media(max-width: 1008px){
+    .row-blog{width: calc(33.33333333333333% - 20px); margin: 0 10px 50px 10px;float: left;position: relative;} 
+}
+/*--------------------MEDIA 980PX--------------------*/
+@media(max-width:980px){
+    .box-artigo h6{font-size: 0.7em;}
+    .artigos-recentes h2{font-size: 1.2em;}
+}
+/*--------------------MEDIA 800PX--------------------*/
+@media(max-width: 815px){
+    .row-blog{width: calc(49% - 20px); margin: 0 10px 50px 10px;float: left;position: relative;}    
+}
+/*--------------------MEDIA 800PX--------------------*/
+@media(max-width: 800px){
+    .nossos-onibus{margin: 15px 1%; width: calc(33.33333333333333% - 2%);}
+    /*---------------------------------------*/
+    .sidebar-search{width: 34%}    
+    .sec-thumb-pacotes{margin-left: 10px; width: 64%;}
+    .row-pacotes h1{font-size: 2em;}
+    .row-pacotes{width: 100%;}
+    .row-pacotes .box-thumb-pac{width: calc(50% - 20px);margin-bottom: 10px;}
+    .row-pacotes .box-thumb-pac h1{font-size: 1.2em;}
+    .box-hover-pacotes{display: none !important;}
+    /*-----------------------------------------------*/
+    .row-comprar-pacote{width: 100%;margin-bottom: 50px;float: left;}    
+    .desc-pacote { width: 100% !important; float: left; margin-left: 0;}
+    .atencao{text-align: justify;}
+}
+/*--------------------MEDIA 762PX--------------------*/
+@media(max-width:762px){
+    .box-artigo h6{font-size: 0.7em;}
+    .artigos-recentes h2{font-size: 1.2em;}
+    .box-artigo .thumb-img-artigo{width: 100%;margin: 0 2% 25px 0;}
+    .box-artigo .artigos-recentes{width: 100%;}
+    .box-artigo .artigos-recentes .box-art-thumb img{width: 100px;height: auto;float: left;}
+    .box-artigo .artigos-recentes .box-art-thumb h2{width: 100px;}
+    .box-comentario .form-artigo{width: 100%;}
+}
+/*--------------------MEDIA 768PX--------------------*/
+@media(max-width: 768px){
+    .row-pacotes .box-thumb-pac .thumb-pacote .box-hover-pacotes{height: 269px; }
+}
+@media(max-width:767px){
+    /*MENU PRINCIPAL*/
+    .main_menu{display: none;}    
+    .sec-onde{background: #e93439;}
+    .sec-row{margin: 0 5%; width: calc(33.33333% - 10%);  float: left; margin-top: 25px; color: #fff; margin-bottom: 25px;}
+    .sec-row:nth-child(1){display: none;}
+    .sect-thumb{width: 100%;  float: left; }
+    .sect-thumb .thumb{padding: 25px; width: 60%; margin: 0 20%;}    
+    .sect-text{width: 100%;  float: left; }
+    .sect-text .quem-text{width: 90%; margin: 0 5%; margin-bottom: 15px;}
+}
+/*-------------------------------------------------------MENU MOBILE --------------------------------------------------------*/
+@media(max-width: 766px){  
+    /*--BOTAO ABRE MENU ---------*/
+    .sidebar
+    {
+        display: block;
+        position: absolute;
+        width: 240px;
+        height: 100%;
+        top: 0;
+        left: -240px;
+        background: #333;
+        transition: 0.3s;
+        z-index: 95;
+        margin-left: 0;
+    }
+    .active{left: 0;position: absolute;}
+
+    .sidebar ul{margin: 0;padding: 20px 0;}
+    .sidebar ul li a { padding: 10px 20px; color: #fff; display: block; border-bottom: 1px solid rgba(0,0,0,0.2);}
+    .sidebarBtn
+    {
+        position: absolute;
+        top: 0;
+        right: -55px;
+        width: 50px;
+        height: 50px;
+        box-sizing: border-box;
+        border: none;
+        outline: none;
+        background: transparent;
+        cursor: pointer;   
+    }
+    .sidebarBtn span
+    {
+        display: block;
+        width: 80%;
+        height: 3px;
+        background: #333;
+        top: 24px;
+        transition: .3s;    
+        margin: 0 10%;
+    }
+
+    .sidebarBtn span:before
+    {
+        content: "";
+        position: absolute;
+        top: 13px;
+        width: 90%;
+        height: 3px;
+        left: 0;
+        background: #333;
+        transition: .3s;     
+        margin: 0 5%;
+    }
+    .sidebarBtn span:after
+    {
+        content: "";
+        position: absolute;
+        top: 35px;
+        width: 90%;
+        height: 3px;
+        left: 0;
+        background: #333;
+        transition: .3s;   
+        margin: 0 5%;
+    }
+    .sidebarBtn.toggle span{background: transparent;}
+    .sidebarBtn.toggle span:before{top: 24px;transform: rotate(40deg);}
+    .sidebarBtn.toggle span:after{top: 24px;transform: rotate(140deg);}
+    /***********MENU************/   
+}
+/*--------------------MEDIA 667PX--------------------*/
+@media(max-width: 667px){
+    .row-pacotes .box-thumb-pac .thumb-pacote .box-hover-pacotes{height: 235px; }
+}
+/*--------------------MEDIA 651PX--------------------*/
+@media(max-width: 651px){
+    .sidebar-search{width: 97%;margin-left: 3%;margin-bottom: 25px;}    
+    .sec-thumb-pacotes{margin-left: 10px; width: 100%;} 
+    .row-pacotes{width: 100%;}
+    .sec-error .box-error h1,h3,p{text-align: justify;margin: 50px 10px;line-height: 1.2;margin: 1px 10px;float: left; }
+    .sec-error .box-error h3{text-align: center; margin-bottom: 10px;}
+    .sec-error .box-error p{margin-bottom: 10px;text-align: justify;}
+    .sec-error .form_error{width: 100%;}
+    .sec-error .form_error .btn-404{background: #fff;color: #000;}
+    .row-ofertas .btn-ofertas{clear: both;width: 50%;margin: 10px 10px;float: left;position: relative;}
+    .row-ofertas .btn-confira{width: 50%;clear: both;margin: 10px 10px;float: left;position: relative; }
+}
+/*--------------------MEDIA 600PX--------------------*/
+@media(max-width: 600px){
+    .nossos-onibus{margin: 20px 1%; width: calc(45% - 2%);}    
+    /*BTN MOBILE*/
+    .sidebarBtn {  position: absolute;   top: 20px;}
+    /*PROMOÇÕES - FROTA -PACOTES*/
+    .row-oferecer{margin: 0 5%; width: calc(100% - 10%); margin-bottom: 2rem;}
+    .row-thumb-text .thumb img{width: 70%; margin: 0 15%;}
+    /*AS MELHORES OFERTAS*/
+    .row-ofertas{margin: 0 5%; width: calc(100% - 10%);  float: left; background-color: #fff; margin-bottom: 1.5rem !important;}
+    .sec-row{margin: 0 5%; width: calc(100% - 10%);  float: left; margin-top: 25px; color: #fff; margin-bottom: 25px;}
+    .sec-row:nth-child(1){display: block;}
+}
+/*--------------------MEDIA 570PX--------------------*/
+@media(max-width: 570px){
+    .sec-blog{float: left;width: 100%;padding-bottom: 100px;}
+    .title-blog { margin: 10px 0 0 0;}
+    .row-blog{width: calc(99% - 20px); margin: 50px 0 100px 0;top: 0;float: left;}        
+    .info-blog{position:absolute !important;color: #000;background: transparent;top: 100%; width: 100%;height: auto;display: block;transition: none;}       
+    .row-blog:hover .info-blog{display: block;top: 100%;margin-bottom: 50px;}
+    .row-pacotes .box-thumb-pac .thumb-pacote .box-hover-pacotes{display: none;}
+
+    .info-blog p {width: 100%;font-size: 1em; margin: 7px;text-align: left;}
+}
+/*--------------------MEDIA 500PX--------------------*/
+@media(max-width: 500px){
+    .nossos-onibus{margin: 25px 1%; width: calc(100% - 2%);}
+    .box-comentario .form-artigo { width: 100%; margin: 0; margin-bottom: 10px;}
+    .box-comentario .form-artigo .btn-comentario{width: 150px;margin: 10px 50px 10px 0;}
+}
+/*--------------------MEDIA 375PX--------------------*/
+@media(max-width: 375px){
+    .row-pacotes a h1{font-size: 1.6em;}
+    .sec-thumb-pacotes { margin-left: 0; }    
+    .row-pacotes .box-thumb-pac{width: 100%;margin: 5px 0;}   
+    .btn-carregar .btn-carregar-mais { width: 80%; margin: 0 10%;}
+}

@@ -1,0 +1,1 @@
+[04-Aug-2018 11:55:52 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Categoria::getThumb() in /home/viagens/public_html/admin/View/Categoria/editarCategoria.phtml on line 50
