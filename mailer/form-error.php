@@ -17,7 +17,7 @@ if ($btnEnviar):
         $mailer->CharSet  = utf8_decode($mensagem);        
         $mailer->Host = 'mail.3sviagens.com.br'; //smtp.dominio.com.br
         $mailer->Username = 'contato@3sviagens.com.br';
-        $mailer->Password = 'contato';
+        $mailer->Password = '';
 
         $mailer->SetFrom("$email", "$nome"); //Seu e-mail
          $mailer->AddAddress('contato@3sviagens.com.br', '3sviagens');               
